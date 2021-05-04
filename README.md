@@ -5,7 +5,7 @@ The best way to approach interviews is with consistent practice. If you follow t
 
 |         | Content / Subject               | Cracking the coding interview | Leetcode |
 |---------|---------------------------------|-------------------------------|----------|
-| Week 0  | Strings                         | 1.1 1.2 1.3                   | space    |
+| Week 0  | Strings                         | 1.1 1.2 1.3                   | [remove dups](https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/727/) <br>  [rotate array](https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/564/)   |
 | Week 1  | Strings                         | 1.4 1.5 1.6                   | space    |
 | Week 2  | Strings/Arrays                  | 1.8 1.9                       | space    |
 | Week 3  | Linked Lists                    | 2.1 2.2 2.3                   | space    |
