@@ -11,8 +11,8 @@ The best way to approach interviews is with consistent practice. If you follow t
 | Week 3  | Linked Lists                    | 2.1 2.2 2.3                   | [Delete Node](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/553/) <br>  [Reverse LL](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/553/)    |
 | Week 4  | Linked Lists                    | 2.6 2.7 2.8                   |  [Merge Sorted](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/553/) <br>  [Intersection](https://leetcode.com/explore/interview/card/top-interview-questions-medium/107/linked-list/785/)  |
 | Week 5  | Stacks/Qs                       | 3.1 3.2 3.3                   | [Valid Paren](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/721/)    |
-| Week 6  | Trees/Graphs                    | 4.1 4.2 4.3                   | space    |
-| Week 7  | Trees/Graphs                    | 4.4 4.5 4.6                   | space    |
+| Week 6  | Trees/Graphs                    | 4.1 4.2 4.3                   | [Max Depth](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/555/) <br> [Symmetric](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/555/)     |
+| Week 7  | Trees/Graphs                    | 4.4 4.5 4.6                   |   [Array to BST](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/631/) <br> [Zig Zag Traversal](https://leetcode.com/explore/interview/card/top-interview-questions-easy/94/trees/631/)   |
 | Week 8  | Recursion, Memoization, Dynamic | 8.1 8.2 8.4                   | space    |
 | Week 9  | Dynamic Programming             | 8.7 8.8 8.9                   | space    |
 | Week 10 | Dynamic programming             | 8.10 8.11 8.12                | space    |
