@@ -1,7 +1,7 @@
 # interview-guide
 
 ## Schedule
-The best way to approach interviews is with consistent practice. If you follow this timeline of problems you should be well prepared for interviews. You should spend around 1 hour on each problem. Taking the time to learn all the optimizations and how the affect time and space complexities is nessecary. 
+The best way to approach interviews is with consistent practice. If you follow this timeline of problems you should be well prepared for the technical portion of interviews. You should spend around 1 hour on each problem. Taking the time to learn all the optimizations and how the affect time and space complexities is nessecary. 
 
 |         | Content / Subject               | Cracking the coding interview | Leetcode |
 |---------|---------------------------------|-------------------------------|----------|
